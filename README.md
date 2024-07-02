@@ -18,9 +18,10 @@ XXXXX
   1. None
 #### Related material
   1. [FCS module](https://github.com/TurBoss/TurBoHostLink)
-  2. [FCS and BCC](https://)
-  3. [OMRON Digital Temperature Controllers E5AC](https://www.fa.omron.co.jp/products/family/3157/download/catalog.html)
-  4. [OMRON Digital Temperature Controllers User’s Manual E5@C](https://www.fa.omron.co.jp/data_pdf/mnu/h174-e1-18_e5_c.pdf?id=3157)
-  5. [OMRON Digital Temperature Controllers Communications Manual E5@C](https://www.fa.omron.co.jp/data_pdf/mnu/h175-e1-17_e5_c.pdf?id=3157)
+  2. [Frame Checksum (FCS)....EXCLUSIVE OR ...in ASCII Character](https://www.manualslib.com/manual/1538556/Omron-Sysmac-Cv-Series.html?page=60)
+  3. [Block Check Character(BCC)....EXCLUSIVE OR ...in byte](https://www.manualslib.com/manual/1901904/Omron-E5c-T-Series.html?page=27)
+  4. [OMRON Digital Temperature Controllers E5AC](https://www.fa.omron.co.jp/products/family/3157/download/catalog.html)
+  5. [OMRON Digital Temperature Controllers User’s Manual E5@C](https://www.fa.omron.co.jp/data_pdf/mnu/h174-e1-18_e5_c.pdf?id=3157)
+  6. [OMRON Digital Temperature Controllers Communications Manual E5@C](https://www.fa.omron.co.jp/data_pdf/mnu/h175-e1-17_e5_c.pdf?id=3157)
   7. [OMRON Conversion Cable E58-CIFQ](https://www.fa.omron.co.jp/data_pdf/cat/e58-cifq2_ds_e_1_6_csm1011536.pdf?id=3166)
 
