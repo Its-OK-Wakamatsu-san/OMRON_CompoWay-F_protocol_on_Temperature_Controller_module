@@ -12,7 +12,7 @@ XXXXX
   3. PC: windows PC
 #### Software Environment
   1. OS: Windows11
-  2. Python: Version 3.9.10
+  2. Python: Version 3.9.13
   3. Libraries: PySerial
 #### Known issue
   1. None
