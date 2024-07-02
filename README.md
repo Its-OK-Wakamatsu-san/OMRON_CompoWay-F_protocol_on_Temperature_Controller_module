@@ -5,7 +5,7 @@ OMRON CompoWay/F protocol, Sirial IF, Binary I/O comunication.
 
 ### Function
 1. assign serial IF communication.
-2. typical command & response.
+2. typical CompoWay/F command & response.
 
 #### Hardware Environment
   1. Temperature Controller : OMRON E5AC-TCX4ASM-000 Digital Controller without RS-485 communication IF.
