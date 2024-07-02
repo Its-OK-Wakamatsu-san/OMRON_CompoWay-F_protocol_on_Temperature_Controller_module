@@ -1,7 +1,8 @@
 # OMRON CompoWay/F protocol on Temperature Controller E5AC
 This software shows OMRON CompoWay/F protocol typical sample on Temperature Controller like E5AC, using Python.
 ## Overview
-XXXXX
+OMRON CompoWay/F protocol, Sirial IF, Binary I/O comunication.
+
 ### Function
 1. assign serial communication.
 2. typical command & response.
