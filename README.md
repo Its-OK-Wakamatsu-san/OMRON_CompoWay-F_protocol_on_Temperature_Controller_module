@@ -7,17 +7,17 @@ OMRON CompoWay/F protocol, Sirial IF, Binary I/O comunication.
 1. assign serial IF communication.
 2. typical CompoWay/F command & response.
 
-#### Hardware Environment
+### Hardware Environment
   1. Temperature Controller : OMRON E5AC-TCX4ASM-000 Digital Controller without RS-485 communication IF.
   2. USB: OMRON USB Serial Conversion Cable E58-CIFQ2
   3. PC: windows PC
-#### Software Environment
+### Software Environment
   1. OS: Windows11
   2. Python: Version 3.9.13
   3. Libraries: PySerial
-#### Known issue
+### Known issue
   1. None
-#### Related material
+### Related material
   1. [FCS module](https://github.com/TurBoss/TurBoHostLink)
   2. [Frame Checksum (FCS)....EXCLUSIVE OR ...expressed in ASCII Character](https://www.manualslib.com/manual/1538556/Omron-Sysmac-Cv-Series.html?page=60)
   3. [Block Check Character(BCC)....EXCLUSIVE OR ...expressed in bytes.](https://www.manualslib.com/manual/1901904/Omron-E5c-T-Series.html?page=27)
