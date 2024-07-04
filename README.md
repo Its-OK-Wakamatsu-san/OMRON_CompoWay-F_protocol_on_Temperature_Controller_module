@@ -11,10 +11,10 @@ These functions are available as libraries for Omron Digital Controllers.
 4. Read temperature 
 5. Set output value
 
-### Notes
-1. CompoWay/F bautrates is 38400bps, not 9600bps.
-2. BCC(Block Check Character) is 8-bit value that is the result of an EXCLUSIVE OR sequentially performed between each character in a transmission.
-3. The EXCLUSIVE OR module was copied from rerated material(1) website.
+> [!TIP]
+> 1. CompoWay/F bautrates is 38400bps, not 9600bps.
+> 2. BCC(Block Check Character) is 8-bit value that is the result of an EXCLUSIVE OR sequentially performed between each character in a transmission.
+> 3. The EXCLUSIVE OR module was copied from rerated material(1) website.
 
 ### Hardware Environment
   1. Temperature Controller : OMRON E5AC-TCX4ASM-000 Digital Controller without RS-485 communication IF.
