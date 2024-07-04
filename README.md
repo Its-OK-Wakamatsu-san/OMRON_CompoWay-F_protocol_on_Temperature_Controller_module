@@ -1,8 +1,9 @@
-# OMRON CompoWay/F protocol on Temperature Controller E5AC
-Python , OMRON , CompoWay/F protocol , serial IF , Binary I/O comunication , Temperature Controller like E5AC ,　Digital Controller , without RS-485 communication IF model , Enable Manual Mode
+# OMRON CompoWay/F protocol module on Temperature Controller E5AC
+### Keyword
+Python , OMRON , CompoWay/F protocol , serial IF , Binary I/O comunication , Temperature Controller like E5AC ,　Digital Controller , without RS-485 communication IF model , Enable Manual Mode, module , method , library
 
 ## Overview
-It helps to operate an OMRON digital controller from an external PC. The device used is an OMRON E5AC-TCX4ASM-000[^1] digital controller without an RS-485 communication IF.
+It helps to operate an OMRON digital controller from an external PC.  The device used is an OMRON E5AC-TCX4ASM-000[^1] digital controller without an RS-485 communication IF.
 
 ### Function
 These functions are available as libraries for Omron Digital Controllers.
