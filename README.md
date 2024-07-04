@@ -4,16 +4,17 @@ This software shows OMRON CompoWay/F protocol typical sample on Temperature Cont
 OMRON CompoWay/F protocol, Sirial IF, Binary I/O comunication. Helps you operate Omron digital controllers from an external PC.
 
 ### Function
-This is use as library of Omron digital controllers, including these function.
-1. assign serial IF communication.
-2. typical CompoWay/F command & response.
+These functions are available as libraries for Omron Digital Controllers.
+1. Allocate serial IF communication.
+2. Typical CompoWay/F protocol command and response.
 3. Enable Manual Mode
 4. Read temperature 
 5. Set output value
 
 ### Notes
-1. CompoWay/F bautrates: 38400bps
+1. CompoWay/F bautrates is 38400bps, not 9600bps.
 2. BCC(Block Check Character) is 8-bit value that is the result of an EXCLUSIVE OR sequentially performed between each character in a transmission.
+3. The EXCLUSIVE OR module was copied from rerated material(1) website.
 
 ### Hardware Environment
   1. Temperature Controller : OMRON E5AC-TCX4ASM-000 Digital Controller without RS-485 communication IF.
