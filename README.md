@@ -1,11 +1,19 @@
 # OMRON CompoWay/F protocol on Temperature Controller E5AC
 This software shows OMRON CompoWay/F protocol typical sample on Temperature Controller like E5AC, using Python.
 ## Overview
-OMRON CompoWay/F protocol, Sirial IF, Binary I/O comunication.
+OMRON CompoWay/F protocol, Sirial IF, Binary I/O comunication. Helps you operate Omron digital controllers from an external PC.
 
 ### Function
+This is use as library of Omron digital controllers, including these function.
 1. assign serial IF communication.
 2. typical CompoWay/F command & response.
+3. Enable Manual Mode
+4. Read temperature 
+5. Set output value
+
+### Notes
+1. CompoWay/F bautrates: 38400bps
+2. BCC(Block Check Character) is 8-bit value that is the result of an EXCLUSIVE OR sequentially performed between each character in a transmission.
 
 ### Hardware Environment
   1. Temperature Controller : OMRON E5AC-TCX4ASM-000 Digital Controller without RS-485 communication IF.
