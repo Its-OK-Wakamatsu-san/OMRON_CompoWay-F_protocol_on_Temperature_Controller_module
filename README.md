@@ -29,10 +29,10 @@ Below functions are available, as libraries for Omron Digital Controllers.
 ### Known issue
   1. None
 ### Rerated Webpages
-[^4]: [FCS module from TurBoss/TurBoHostLink ](https://github.com/TurBoss/TurBoHostLink)
+[^1]: [OMRON Digital Temperature Controllers E5AC Catalog](https://www.fa.omron.co.jp/products/family/3157/download/catalog.html)
 [^2]: [Frame Checksum (FCS)....EXCLUSIVE OR ...expressed in ASCII Characters](https://www.manualslib.com/manual/1538556/Omron-Sysmac-Cv-Series.html?page=60)
 [^3]: [Block Check Character(BCC)....EXCLUSIVE OR ...expressed in bytes.](https://www.manualslib.com/manual/1901904/Omron-E5c-T-Series.html?page=27)
-[^1]: [OMRON Digital Temperature Controllers E5AC Catalog](https://www.fa.omron.co.jp/products/family/3157/download/catalog.html)
+[^4]: [FCS module from TurBoss/TurBoHostLink ](https://github.com/TurBoss/TurBoHostLink)
 [^5]: [OMRON Digital Temperature Controllers User’s Manual E5@C](https://www.fa.omron.co.jp/data_pdf/mnu/h174-e1-18_e5_c.pdf?id=3157)
 [^6]: [OMRON Digital Temperature Controllers Communications Manual E5@C](https://www.fa.omron.co.jp/data_pdf/mnu/h175-e1-17_e5_c.pdf?id=3157)
 [^7]: [OMRON Conversion Cable E58-CIFQ Catalog](https://www.fa.omron.co.jp/data_pdf/cat/e58-cifq2_ds_e_1_6_csm1011536.pdf?id=3166)
