@@ -27,7 +27,7 @@ These functions are available as libraries for Omron Digital Controllers.
   3. Libraries: PySerial
 ### Known issue
   1. None
-### Rerated webpage
+### Rerated Webpages
 [^4]: [FCS module from TurBoss/TurBoHostLink ](https://github.com/TurBoss/TurBoHostLink)
 [^2]: [Frame Checksum (FCS)....EXCLUSIVE OR ...expressed in ASCII Characters](https://www.manualslib.com/manual/1538556/Omron-Sysmac-Cv-Series.html?page=60)
 [^3]: [Block Check Character(BCC)....EXCLUSIVE OR ...expressed in bytes.](https://www.manualslib.com/manual/1901904/Omron-E5c-T-Series.html?page=27)
