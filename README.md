@@ -34,7 +34,7 @@ Below functions are available, as libraries for Omron Digital Controllers.
   1. None
      
 ### Rerated Program
-This program is used with Temperature Control.[^8]
+This program is useful for a temperature control program.[^8]
 
 ### Rerated Webpages
 [^1]: [OMRON Digital Temperature Controllers E5AC Catalog](https://www.fa.omron.co.jp/products/family/3157/download/catalog.html)
