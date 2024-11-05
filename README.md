@@ -4,7 +4,6 @@ Python , module , method , library , OMRON , CompoWay/F protocol , serial IF , B
 
 ![OMRON E5AC](https://github.com/Its-OK-Wakamatsu-san/OMRON_CompoWay-F_protocol_on_Temperature_Controller/assets/131073488/5f79e9a0-da5d-4761-9ff1-e36258d6ed06)
 
-
 ## Overview
 It helps to operate an OMRON digital controller from an external PC.  The device used is an OMRON E5AC-TCX4ASM-000[^1] digital controller without an RS-485 communication IF.
 
@@ -25,14 +24,18 @@ Below functions are available, as libraries for Omron Digital Controllers.
   1. Temperature Controller : OMRON E5AC-TCX4ASM-000 Digital Controller without RS-485 communication IF.[^1][^5][^6]
   2. USB: OMRON USB Serial Conversion Cable E58-CIFQ2 [^7]
   3. PC: windows PC
+  4. 
 ### Software Environment
   1. OS: Windows11
   2. Python: Version 3.9.13
   3. Libraries: PySerial
+     
 ### Known issue
   1. None
+     
 ### Rerated Program
 This program is used with Temperature Control.[^8]
+
 ### Rerated Webpages
 [^1]: [OMRON Digital Temperature Controllers E5AC Catalog](https://www.fa.omron.co.jp/products/family/3157/download/catalog.html)
 [^2]: [Frame Checksum (FCS)....EXCLUSIVE OR ...expressed in ASCII Characters](https://www.manualslib.com/manual/1538556/Omron-Sysmac-Cv-Series.html?page=60)
