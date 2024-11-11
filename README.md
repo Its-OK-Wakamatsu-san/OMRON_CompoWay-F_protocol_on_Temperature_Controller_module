@@ -15,7 +15,7 @@ Below functions are available, as libraries for Omron Digital Controllers.
 4. Read temperature 
 5. Set output value
 
-> [!TIP]
+> [!TIPS]
 > 1. CompoWay/F bautrates is 38400bps, not 9600bps.
 > 2. BCC(Block Check Character) is 8-bit value that is the result of an EXCLUSIVE OR sequentially performed between each 8-bit in a transmission.[^2][^3]
 > 3. The EXCLUSIVE OR module: copied from GitHUB TurBoss website.[^4]
